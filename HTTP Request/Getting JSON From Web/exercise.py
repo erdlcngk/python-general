@@ -9,16 +9,3 @@ for searcher in response2:
 print(holder)
 with open("deneme1.txt","w") as file:
     json.dump(holder,file,ensure_ascii=False)
-
-# {
-#     "1":{
-#         "tür":"portakal",
-#         "boy": 70,
-#         "ağırlık": 50
-# },                                                        # Bu şekilde .xlsx dosyası şeklinde kaydetmeyi öğrenebilirsin.
-#     "2":{
-#         "tür":"mandalina",
-#         "boy": 80,
-#         "ağırlık":90
-#     }
-# }
