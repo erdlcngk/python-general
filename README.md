@@ -29,4 +29,4 @@ Use of Pandas library's methods and related examples.
 A small example of connecting to and sending data to the database.
 
 # Selenium
-A bot for Instagram with Selenium library.
+A bot for Instagram with Selenium library. With this bot, you can easily find and unfollow people you follow but do not follow you.
